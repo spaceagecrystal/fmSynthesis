@@ -1,6 +1,6 @@
 # FM Synthesis Patch
 ----
-## Summary?
+## Summary
 
 This is a MAX/MSP example of frequency modulation. I made it during a sound synthesis class at SAIC taught by Shawn Decker. There is a standalone .mxf file to run of you do not have max/msp. Enjoy!
 
